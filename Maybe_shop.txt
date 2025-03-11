@@ -1,0 +1,6 @@
+ python manage.py startapp userauths
+ python manage.py startapp store
+ python manage.py startapp vendor
+ python manage.py startapp customer
+python manage.py startapp blog
+
