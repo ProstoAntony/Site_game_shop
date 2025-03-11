@@ -29,3 +29,5 @@ npm install
 npm install axios
 npm i sweeralert2
 
+git init
+git add .
